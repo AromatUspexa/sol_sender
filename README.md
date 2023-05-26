@@ -16,7 +16,7 @@
 
 Каждому приватному ключу соответствует свой адресс SOL!
 **private_key -> wallet**
-```toml
+```
 private_key1 --> wallet1
 private_key2 --> wallet2
 ...
